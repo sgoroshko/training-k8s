@@ -1,6 +1,7 @@
 .idea/
 
-priv/
+_cred/
+
 **/.terraform/
 **/.terraform.lock.hcl
 **/terraform.tfstate*
